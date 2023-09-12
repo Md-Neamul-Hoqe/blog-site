@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "cover": "https://as1.ftcdn.net/v2/jpg/04/84/61/16/1000_F_484611602_icrCDiNfOrhVlLhKqiitIXfwsh0Sa2y2.jpg",
+    "title": "The Art of Faces",
+    "author": "johndoe",
+    "author_img": "https://e7.pngegg.com/pngimages/428/137/png-clipart-male-avatar-young-user-icon-icons-logos-emojis-users-thumbnail.png",
+    "posted_date": "2023-09-12",
+    "reading_time": "10 minutes",
+    "hashtags": [
+      "art",
+      "faces",
+      "creativity"
+    ]
+  },
+  {
+    "id": 2,
+    "cover": "https://as1.ftcdn.net/v2/jpg/05/79/59/54/1000_F_579595453_Jrvv7aUHomQmD76xJjPYNO64Vwnk16fV.jpg",
+    "title": "Exploring Facial Expressions",
+    "author": "janedoe",
+    "author_img": "https://e7.pngegg.com/pngimages/172/117/png-clipart-learning-need-others-miscellaneous-head.png",
+    "posted_date": "2023-09-11",
+    "reading_time": "8 minutes",
+    "hashtags": [
+      "facialexpressions",
+      "psychology"
+    ]
+  },
+  {
+    "id": 3,
+    "cover": "https://as2.ftcdn.net/v2/jpg/04/84/61/15/1000_F_484611555_kko7InXwC8D16GVYg7dJP2M8aWBYIYH8.jpg",
+    "title": "Faces of Nature",
+    "author": "naturelover",
+    "author_img": "https://img1.pnghut.com/20/4/23/TjSHPr3fFm/business-password-job-login-information.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": "12 minutes",
+    "hashtags": [
+      "nature",
+      "photography"
+    ]
+  },
+  {
+    "id": 4,
+    "cover": "https://as2.ftcdn.net/v2/jpg/04/84/61/15/1000_F_484611555_kko7InXwC8D16GVYg7dJP2M8aWBYIYH8.jpg",
+    "title": "Face Paintings Through History",
+    "author": "historybuff",
+    "author_img": "https://p7.hiclipart.com/preview/349/288/888/teacher-education-student-course-school-avatar-thumbnail.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": "15 minutes",
+    "hashtags": [
+      "history",
+      "art"
+    ]
+  },
+  {
+    "id": 5,
+    "cover": "https://as2.ftcdn.net/v2/jpg/04/84/61/15/1000_F_484611555_kko7InXwC8D16GVYg7dJP2M8aWBYIYH8.jpg",
+    "title": "The Science of Facial Recognition",
+    "author": "techgeek",
+    "author_img": "https://cdn2.iconfinder.com/data/icons/office-and-business-special-set-2/260/31-512.png",
+    "posted_date": "2023-09-08",
+    "reading_time": "7 minutes",
+    "hashtags": [
+      "technology",
+      "facialrecognition"
+    ]
+  }
+]
